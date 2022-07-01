@@ -1,0 +1,12 @@
+/Assembly-CSharp-Editor.csproj
+/NewAssembly.csproj
+/NodeEditor.sln
+/Unity.RenderPipelines.Universal.Editor.csproj
+/Unity.RenderPipelines.Universal.Runtime.csproj
+/.idea
+/Library
+/Logs
+/Temp
+/test_BackUpThisFolder_ButDontShipItWithYourGame
+/test_BurstDebugInformation_DoNotShip
+/Assembly-CSharp.csproj
